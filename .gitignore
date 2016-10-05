@@ -1,0 +1,5 @@
+*.pyc
+*junit.xml
+.cache/
+venv/
+.idea/
